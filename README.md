@@ -4,3 +4,5 @@ I created 3 users (user 1, user 2, and user 3), added them to the group and I wa
 
 
 ### Here's the snapshot of the users I created using IAM.
+
+![employee directory app](employee-directory.jpg)
